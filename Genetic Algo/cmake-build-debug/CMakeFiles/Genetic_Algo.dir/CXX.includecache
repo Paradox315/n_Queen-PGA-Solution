@@ -1,0 +1,56 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Files/algorithm/Genetic Algo/ThreadPool.h
+thread
+-
+condition_variable
+-
+mutex
+-
+vector
+-
+queue
+-
+future
+-
+
+E:/Files/algorithm/Genetic Algo/environment.h
+state.h
+E:/Files/algorithm/Genetic Algo/state.h
+climits
+-
+
+E:/Files/algorithm/Genetic Algo/main.cpp
+environment.h
+E:/Files/algorithm/Genetic Algo/environment.h
+ThreadPool.h
+E:/Files/algorithm/Genetic Algo/ThreadPool.h
+fstream
+-
+windows.h
+-
+mutex
+-
+
+E:/Files/algorithm/Genetic Algo/state.h
+vector
+-
+algorithm
+-
+iostream
+-
+string
+-
+sstream
+-
+ctime
+-
+cstdlib
+-
+

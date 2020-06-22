@@ -1,0 +1,20 @@
+Rate of success: 1
+Average time: 32.3375ms
+Rate of success: 1
+Average time: 43.0555ms
+Rate of success: 1
+Average time: 43.6433ms
+Rate of success: 1
+Average time: 22.5004ms
+Rate of success: 1
+Average time: 27.507ms
+Rate of success: 1
+Average time: 17.6686ms
+Rate of success: 1
+Average time: 12.2925ms
+Rate of success: 1
+Average time: 12.4315ms
+Rate of success: 1
+Average time: 21.968ms
+Rate of success: 1
+Average time: 22.1887ms
